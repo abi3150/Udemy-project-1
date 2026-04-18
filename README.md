@@ -47,7 +47,8 @@ udemy-clone/
 ## 🔗 Live Demo
 
 👉 Add your GitHub Pages link here
-Example: https://your-username.github.io/udemy-clone/
+
+https://abi3150.github.io/Udemy-project-1/
 
 ---
 
